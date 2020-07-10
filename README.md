@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Software Engineer @ ecx.io | IBM iX
+
+www.linkedin.com/in/matijakovacek
+
+https://twitter.com/matija_kovacek
+
+https://devz.life
 <!--
 **mkovacek/mkovacek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
