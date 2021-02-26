@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Engineer @ ecx.io | IBM iX
+Senior Software Engineer @ ecx.io | IBM iX
 
 www.linkedin.com/in/matijakovacek
 
