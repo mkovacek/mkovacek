@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![mkovacek github stats](https://github-readme-stats.vercel.app/api?username=mkovacek&count_private=true&show_icons=true)](https://github.com/mkovacek)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mkovacek)
