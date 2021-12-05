@@ -1,24 +1,9 @@
 ### Hi there 👋
 
-Senior Software Engineer @ ecx.io | IBM iX
+Lead Developer | Technical Architect | AEM Tech Lead | Developer Advocate | Java & AEM trainer | Technical Interviewer 
 
-www.linkedin.com/in/matijakovacek
+- www.linkedin.com/in/matijakovacek
 
-https://twitter.com/matija_kovacek
+- https://twitter.com/matija_kovacek
 
-https://devz.life
-<!--
-**mkovacek/mkovacek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![mkovacek github stats](https://github-readme-stats.vercel.app/api?username=mkovacek&count_private=true&show_icons=true)](https://github.com/mkovacek)
+- https://devz.life
