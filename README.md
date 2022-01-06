@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Lead Developer | Technical Architect | AEM Tech Lead | Developer Advocate | Java & AEM trainer | Technical Interviewer 
+Lead Developer | Technical Architect | Tech Lead | Developer Advocate | Java & AEM trainer | Technical Interviewer 
 
 - www.linkedin.com/in/matijakovacek
 
