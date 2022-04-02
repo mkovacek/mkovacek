@@ -8,4 +8,4 @@ Lead Developer | Technical Architect | Tech Lead | Developer Advocate | Java & A
 
 - https://devz.life
 
-- https://www.aemdeveloper.dev/
+- https://www.aemdeveloper.dev
