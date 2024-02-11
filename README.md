@@ -2,7 +2,7 @@
 
 I'm Matija Kovacek, an experienced Senior Software Developer with a Master's Degree in Information and Software Engineering. My specialization includes Backend, Java, Web, and Adobe Experience Manager (AEM) development.
 
-My career has allowed me to explore various roles within the AEM world, from Senior AEM Developer to Lead AEM Developer and AEM Architect. Although each position offered unique challenges and rewards, my primary passion remains deeply rooted in the hands-on development process. The role of Senior AEM Developer provides me with the ideal platform to apply my passion for crafting and delivering cutting-edge technology solutions. 
+My career has allowed me to explore various roles within the AEM world, from Senior AEM Developer to Lead AEM Developer and AEM Architect. Although each position offered unique challenges and rewards, my primary passion remains deeply rooted in the hands-on development processes. The role of Senior AEM Developer provides me with the ideal platform to apply my passion for crafting and delivering cutting-edge technology solutions. 
 
 #### EXPERTISE:
 - Transforming complex requirements into well-structured, maintainable, and high-performance code
@@ -43,6 +43,7 @@ I believe in the importance of best practices, collaboration with talented profe
      - AEM Sites Architect 
      - AEM Sites Developer
      - AEM Dev/Ops Engineer
+     - AEMaaCS Migration Expert
      - Adobe Analytics Developer
 
 
