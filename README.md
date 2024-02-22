@@ -48,10 +48,8 @@ I believe in the importance of best practices, collaboration with talented profe
 
 
 #### WEBSITES
+- https://matijakovacek.com
+  
 - www.linkedin.com/in/matijakovacek
 
 - https://twitter.com/matija_kovacek
-
-- https://devz.life
-
-- https://aemdeveloper.dev
