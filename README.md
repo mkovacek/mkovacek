@@ -48,7 +48,7 @@ I believe in the importance of best practices, collaboration with talented profe
 
 
 #### WEBSITES
-- https://matijakovacek.com
+- https://www.matijakovacek.com
   
 - www.linkedin.com/in/matijakovacek
 
